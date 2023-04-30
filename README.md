@@ -17,4 +17,4 @@
 
 #### 访问地址
 
-[http://www.luoguang.icu]()
+[](www.luoguang.icu)
