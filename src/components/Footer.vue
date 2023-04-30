@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <div style="width: 300px; margin: 0 auto; padding: 20px 0">
+    <div style="width: 375px; margin: 0 auto; padding: 0 0">
       <img src="@/assets/footer/images/beian.png" alt="" />
       <a
         target="_blank"
