@@ -153,7 +153,7 @@ export default {
 
 
 // 手机端样式
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1199px) {
   .home {
     height: 100%;
     width: 100%;

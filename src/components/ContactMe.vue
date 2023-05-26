@@ -13,7 +13,7 @@
         <h4>邮箱：1493170339@qq.com</h4>
         <h4>tel:17384165534</h4>
         <a href="https://gitee.com/luoguangguang" style="color: #0080ce"
-          >Enter my gitee</a
+          >进入我的Gitee博客</a
         >
       </div>
     </div>
@@ -98,7 +98,7 @@ export default {
 }
 
 // 手机端
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1199px) {
   .contact {
     width: 375px;
     display: flex;

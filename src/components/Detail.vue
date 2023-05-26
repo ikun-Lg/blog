@@ -25,7 +25,7 @@ export default {
 }
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:1199px) {
   .introduction{
   width: 98vw;
   margin: 20px auto;

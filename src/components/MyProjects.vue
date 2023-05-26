@@ -33,6 +33,34 @@
           </div>
         </div>
       </div>
+
+         <div class="card">
+        <div class="box">
+          <div class="picture">
+            <img
+              class="projectsImg1"
+              src="../assets/projects/folder.png"
+              alt=""
+            />
+          </div>
+          <div class="name">
+            <p>落光云图册app</p>
+          </div>
+          <div class="jobtitle">
+            <p>
+              图片网盘<br />uniapp+node+mysql<br />第一个全栈项目
+            </p>
+          </div>
+          <div class="buttons">
+            <div class="button2">
+              <a
+                href="https://gitee.com/luoguangguang/luoguangyun-atlas-app/releases/download/1.0.0/__UNI__140459C__20230512235206.apk"
+                ><button>点击我下载app</button></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -63,7 +91,7 @@ export default {
   }
 
   .card::before {
-    content: "更多详情以及源代码请到我的gitee仓库查看----https://gitee.com/luoguangguang/luoguang-weather";
+    content: "更多详情以及源代码请到我的gitee仓库查看----https://gitee.com/luoguangguang/luoguangyun-atlas-app";
     letter-spacing: 0.2em;
     position: absolute;
     bottom: 8px;
@@ -148,7 +176,7 @@ export default {
   }
 }
 
-@media screen and(max-width: 767px) {
+@media screen and(max-width: 1199px) {
     .card {
     margin: 40px auto;
     width: 300px;

@@ -69,7 +69,7 @@ export default {
 }
 
 // 手机端
-@media screen and(max-width:767px) {
+@media screen and(max-width:1199px) {
   .top {
     margin-bottom: 10px;
     height: 40px;
@@ -78,7 +78,7 @@ export default {
     justify-content: space-evenly;
     line-height: 40px;
     border-bottom: 1px gray solid;
-    width: 375px;
+    width: 100%;
   }
 
   .top h1 {
