@@ -58,7 +58,7 @@ v-leave {
 
 * {
   box-sizing: border-box;
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   text-decoration: none;
   color: #000;
